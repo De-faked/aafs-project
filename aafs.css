@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 300vh;
+}
+
+.stay {
+    position: sticky;
+    top: 0px;
+}
+
+.menue {
+    background-color: rgb(61, 59, 59);
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+.menue li {
+    font-size: 20px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.menue a {
+    color: white;
+    text-decoration: none;
+}
+
+.inside {
+    border: 2px dashed green;
+    padding: ;
+    margin: 20px;
+}
+
+.aboutme {
+    background-image: url(/bilder/sea-2755858_1280.jpg) ;
+
+    /* background-color: lightskyblue; */
+    height: 30%;
+    text-align: center;
+    text-decoration: overline;
+}
+
+.middark {
+    background-color: lightgreen;
+    height: 30%;
+}
+
+.middark h1 {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.enddark {
+    background-color: lightseagreen;
+}
+
+
+/* .begindark{
+
+} */
+
+/* .dark {
+    height: ;
+} */
